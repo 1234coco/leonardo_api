@@ -1,0 +1,1 @@
+%~dp0//RUN//Scripts//python.exe %~dp0//RUN//Main.py

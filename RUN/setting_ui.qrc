@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>Logo.webp</file>
+  </qresource>
+</RCC>
